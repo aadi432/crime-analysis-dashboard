@@ -1,4 +1,4 @@
-# 🚔 Crime Analysis Dashboard (Team Project)
+# 🚔 Crime Analysis Dashboard
 
 ## 📌 Project Overview
 The **Crime Analysis Dashboard** is an end-to-end **team-based data analytics project** developed by a group of **5 members**.  
