@@ -1,0 +1,30 @@
+﻿City,State,Estimated Population,City Type
+Delhi,Delhi (NCT),"3,46,65,569",Metro
+Mumbai,Maharashtra,"2,20,88,953",Metro
+Kolkata,West Bengal,"1,58,45,219",Metro
+Bangalore,Karnataka,"1,43,95,443",Metro
+Chennai,Tamil Nadu,"1,23,36,047",Metro
+Hyderabad,Telangana,"1,13,37,852",Metro
+Ahmedabad,Gujarat,"90,61,819",Metro
+Surat,Gujarat,"85,81,733",Metro
+Pune,Maharashtra,"75,25,717",Metro
+Jaipur,Rajasthan,"44,11,107",Metro
+Lucknow,Uttar Pradesh,"41,32,671",Metro
+Indore,Madhya Pradesh,"34,82,832",Non-Metro
+Kanpur,Uttar Pradesh,"33,45,367",Non-Metro
+Nagpur,Maharashtra,"31,70,178",Non-Metro
+Patna,Bihar,"26,89,544",Non-Metro
+Bhopal,Madhya Pradesh,"26,86,291",Non-Metro
+Agra,Uttar Pradesh,"24,78,337",Non-Metro
+Visakhapatnam,Andhra Pradesh,"24,40,423",Non-Metro
+Nashik,Maharashtra,"23,51,139",Non-Metro
+Rajkot,Gujarat,"21,50,327",Non-Metro
+Ludhiana,Punjab,"20,28,679",Non-Metro
+Meerut,Uttar Pradesh,"18,74,886",Non-Metro
+Varanasi,Uttar Pradesh,"18,26,013",Non-Metro
+Srinagar,Jammu & Kashmir,"17,77,611",Non-Metro
+Kalyan,Maharashtra,"12,62,255",Non-Metro
+Thane,Maharashtra,"12,61,517",Metro
+Faridabad,Haryana,"12,20,229",Metro
+Ghaziabad,Uttar Pradesh,"11,99,191",Metro
+Vasai,Maharashtra,"12,22,390",Non-Metro
