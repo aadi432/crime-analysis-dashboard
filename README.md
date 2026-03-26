@@ -167,7 +167,8 @@ This script implements a **PostgreSQL ETL workflow** using Python with SQL-style
 
 ## 👥 Team Collaboration (5 Members)
 - Tushar Chauhan
-- Piyush Ghule
+- Yash Malusare
 - Aditya Shukla  
 - Sejal Badwaik
-- Yash Malusare
+- Piyush Ghule
+
